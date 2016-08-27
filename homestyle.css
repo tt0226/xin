@@ -1,0 +1,101 @@
+@CHARSET "UTF-8";
+*{margin: 0px;padding: 0px;}
+.fl{float: left;}
+.fr{float: right;}
+a{text-decoration: none;}
+ul{list-style: none;}
+body{font: 14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+/*公用*/
+.comWidth{width: 1239px; margin-left:auto; margin-right: auto; position: relative;}
+.left{float: left;}
+.right{float: right;}
+/*top*/
+.top{height: 36px;background-color:#FAFAFA; line-height: 36px; display: block; font-size: 12px; }
+
+.top a{color:#A0A0A0; text-decoration: none; }
+.top .sep{margin: 0 10px;}
+.sep{font-family: sans-serif;}
+.top a:HOVER {
+	color: #000000;
+}
+/*logo*/
+.logoBar{height: 110px;background-color: #FFFFFF;}
+.logo{padding-top: 23px;}
+/*.search_box{width:424px;}*/
+.search_box{width: 382px;height:40px;float:left; position: absolute;top:30px;left: 608px;}
+.search_box form{float: left;background-color: #FFFFFF; float: right;}
+/*.search_text{width:352px;
+height: 20px;
+padding: 9px 15px;
+border: 0px;
+line-height: 20px;
+color: #333;
+background: #fff;outline: none;width:382px;border:1px solid #dfdfdf;}
+.search_btn{border: 0px;background-image:url("img/icon/search.png");width: 19px;height: 20px;
+float:right;margin-top:0px;
+}*/
+.search_text{border: 0px;float: left;height: 20px;line-height: 20px;outline: none;
+border:1px solid #dfdfdf;width:300px;
+padding: 9px 15px;
+}
+.search_btn{border: 0px; background-image:url("img/icon/search.png");width: 19px;height: 20px;
+float: left;
+}
+
+.shopCar{width: 126px;height: 41px;background-color: #FEDA3E; margin-top:30px;}
+.shopText{height: 41px;width: 127px; line-height: 41px;background: url("img/icon/shop.jpg") 40px center no-repeat;
+text-indent: 60px; 
+}
+/*导航*/
+.navBox{height: 50px;}
+.shopClass{background-color: #FF4B00; width: 248px;
+height:50px;padding-left:10px;position:relative;
+display: block;
+color: #ffffff;
+}
+.shopClass_show{position: absolute; left: 0px;top: 50px;width: 100%;}
+.shopClass h3{text-align: center;line-height: 50px;}
+.nav,.shopClass{font: 14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+.nav{line-height: 50px;  }
+.nav li{float:left;list-style: none;}
+.nav a{height: 50px;display:inline-block;padding: 0 20px; text-decoration: none;
+background-color: #3E4245;color: #FFFFFF;height: 50px;
+}
+
+.nav a:HOVER {
+	color: #fff;background-color:#20202F;
+}
+/*商品弹出列表*/
+.shopClass_show:HOVER{background-color: #F7F7F7;}
+.shopClass_item{padding:21px 22px; border-right: 1px solid #dfdfdf;border-top:1px solid #dfdfdf; }
+
+
+.shopClass_item .b{color: #FF0000;}
+.shopClass_item a{color: #656565;}
+/*banner部分*/
+.banner_bar{width: 992px;height: 420px;float: right; position: relative; overflow: hidden;}
+.imgBox{width: 1984px;height: 420px; position: absolute;left: 0px;top: 0px;}
+.imgBox li{float: left;}
+.imgBox img{width: 992px;height: 420px;display: block;}
+.imgNum{position: absolute;left: 0px;bottom: 15px;width: 100%; text-align: right; }
+.imgNum a{width: 30px;height: 20px; overflow: hidden;background-color: #ACACAC; display: inline-block;
+margin: 0px 11px; text-align: center;}
+.imgNum a:HOVER {
+	background-color: #6D6D6D;
+}
+.imgNum .active{background-color: #6D6D6D;}
+
+.shopTit{width: 330px;height: 170px;background-image: url("img/banner/a.jpg")-10px 0s no-repeat ;float: right;
+position: absolute;left: 0px;bottom: 15px;width: 100%; border-right: 1px solid #dfdfdf;}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>小米官网</title>
+<link rel="stylesheet" type="text/css" href="../xm/homestyle.css">
+</head>
+<body>
+<div class="header">
+	<div class="top">
+		<div class="comWidth">
+			<div class="left">
+			<a href="#" class="xmw">小米网<span class="sep">|</span></a>
+			<a href="#" class="miui">MIUI<span class="sep">|</span></a>
+			<a href="#" class="ml">米聊<span class="sep">|</span></a>
+			<a href="#" class="yx">游戏<span class="sep">|</span></a>
+			<a href="#" class="reading">多看阅读<span class="sep">|</span></a>
+			<a href="#" class="yfw">云服务<span class="sep">|</span></a>
+			<a href="#" class="moving">小米网移动版<span class="sep">|</span></a>
+			<a href="#" class="select">Select region</a>
+			</div>
+			<div class="right">
+			<a href="#">登录<span class="sep">|</span></a><a href="#">注册</a>
+			
+			</div>
+		</div>
+	
+
+	</div><!-- top结束 -->
+	<div class="logoBar">
+		<div class="comWidth">
+			<div class="logo fl" >
+			<a href="#"><img src="img/icon/log.jpg"></a>
+			</div>
+			<div class="search_box fl">
+			<form action="" method="post">
+				<input type="text" class="search_text fl"/>
+				<input type="submit" class="search_btn fr" value=""/>
+	
+				</form>
+			
+			</div>
+			<div class="shopCar fr">
+			<span class="shopText fl">购物车</span>
+			</div>
+		</div>
+	</div><!-- logoBar结束 -->
+	<div class="navBox">
+		<div class="comWidth">
+			<div class="shopClass fl">
+			<h3>全部商品分类</h3>
+			<div class="shopClass_show">
+				<dl class="shopClass_item">
+					<dt><a href="#" class="b">购买手机</a></dt>
+					<dd><a href="#">小米Note</a>
+					<a href="#">小米4</a>
+					<a href="#">红米</a>
+					<a href="#">红米Note</a>
+					</dd>
+				</dl>
+				<dl class="shopClass_item">
+					<dt><a href="#" class="b">购买电视与平板</a></dt>
+					<dd><a href="#">小米电视</a>
+					<a href="#">小米盒子</a>
+					<a href="#">小米平板</a>
+					</dd>
+				
+				</dl>
+					<dl class="shopClass_item">
+					<dt><a href="#" class="b">路由器与智能硬件</a></dt>
+					<dd><a href="#">小米路由器</a>
+					<a href="#">小米手环</a>
+					<a href="#">净化器</a>
+					</dd>
+				</dl>
+					<dl class="shopClass_item">
+					<dt><a href="#" class="b">移动电源与电池</a></dt>
+					<dd><a href="#">小米移动电源</a>
+					<a href="#">电池</a>
+					<a href="#">充电器</a>
+					</dd>
+				</dl>
+						<dl class="shopClass_item">
+					<dt><a href="#" class="b">购买手机</a></dt>
+					<dd><a href="#">小米Note</a>
+					<a href="#">小米4</a>
+					<a href="#">红米</a>
+					<a href="#">红米Note</a>
+					</dd>
+				</dl>
+						<dl class="shopClass_item">
+					<dt><a href="#" class="b">购买手机</a></dt>
+					<dd><a href="#">小米Note</a>
+					<a href="#">小米4</a>
+					<a href="#">红米</a>
+					<a href="#">红米Note</a>
+					</dd>
+				</dl>
+						<dl class="shopClass_item">
+					<dt><a href="#" class="b">购买手机</a></dt>
+					<dd><a href="#">小米Note</a>
+					<a href="#">小米4</a>
+					<a href="#">红米</a>
+					<a href="#">红米Note</a>
+					</dd>
+				</dl>
+						<dl class="shopClass_item">
+					<dt><a href="#" class="b">购买手机</a></dt>
+					<dd><a href="#">小米Note</a>
+					<a href="#">小米4</a>
+					<a href="#">红米</a>
+					<a href="#">红米Note</a>
+					</dd>
+				</dl>
+			
+			</div><!-- shopclass结束 -->
+			</div>
+			<ul class="nav fl">
+			<li><a href="#"  >首页</a></li>
+			<li><a href="#" >小米手机</a></li>
+			<li><a href="#" >红米</a></li>
+			<li><a href="#" >小米平板</a></li>
+			<li><a href="#" >小米电视</a></li>
+			<li><a href="#" >盒子</a></li>
+			<li><a href="#" >路由器</a></li>
+			<li><a href="#" >合约机</a></li>
+			<li><a href="#" >服务</a></li>
+			<li><a href="#" >社区</a></li>
+			</ul>
+		</div>
+	
+	</div><!-- navbox结束 -->
+</div><!-- header结束 -->
+<div class="banner comWidth">
+	<div class="banner_bar">
+		<ul class="imgBox">
+		<li><a href="#"><img src="img/banner/1.jpg" alt="banner"></a></li>
+		<li><a href="#"><img src="img/banner/2.jpg" alt="banner"></a></li>
+		<li><a href="#"><img src="img/banner/3.jpg" alt="banner"></a></li>
+		<li><a href="#"><img src="img/banner/4.jpg" alt="banner"></a></li>
+		<li><a href="#"><img src="img/banner/5.jpg" alt="banner"></a></li>
+		</ul>
+		<div class="imgNum">
+		<a href="#" class="active">1</a><a href="#">2</a><a href="#">3</a><a href="#">4</a><a href="#">5</a>
+		</div>
+			<div class="shopTit">
+	</div>
+		<div class="shopTit2">
+	</div>
+		<div class="shopTit3">
+	</div>
+	</div>
+
+</div>
+
+
+
+</body>
+</html>
